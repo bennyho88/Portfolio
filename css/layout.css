@@ -425,16 +425,37 @@
 	text-transform: uppercase;
 }
 
+
+.name {
+	box-shadow: inset 0 -6px 0 #ede574;
+	-moz-box-shadow: inset 0 -6px 0 #ede574;
+	-webkit-box-shadow: inset 0 -6px 0 #ede574;
+	-khtml-box-shadow: inset 0 -6px 0 #ede574;
+	display: inline-block;
+}
+
+
 .section.services .service-item p {
 	margin: 0;
 	font-size: 14px;
 	line-height: 24px;
 }
 
-.skills-box {
-	border: 2px solid black;
+.skillbox-left {
+	border-right: 2px solid black;
 	text-align: center;
 }
+
+.skillbox-middle {
+	text-align: center;
+}
+
+.skillbox-right {
+	border-left: 2px solid black;
+	text-align: center;
+}
+
+
 
 @media (max-width: 720px) {
 	.section.services .service-item {

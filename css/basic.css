@@ -20,7 +20,7 @@
 	14. Blockquote
 	15. Animations
 	16. Youtube Video
-	17. Icon
+	
 */
 
 /* 1. Basic */
@@ -633,7 +633,7 @@ textarea.error::-webkit-input-placeholder {
 /* 9. Lists */
 ol,
 ul {
-	list-style: circle;
+	list-style: none;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	padding-left: 0px;
@@ -647,7 +647,7 @@ ol ul {
 }
 
 li {
-	margin: 10px;
+	margin: px;
 }
 
 /* 10. Code */
@@ -799,8 +799,3 @@ blockquote {
 	height:100%;
 }
 
-/* Icon */
-
-.icon {
-	color: #ede574;
-}
