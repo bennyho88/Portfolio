@@ -449,7 +449,7 @@
 }
 
 .skillbox-left {
-	border-right: 2px solid black;
+	border-right: 2px solid #3F3F3F;
 	text-align: center;
 }
 
@@ -458,7 +458,7 @@
 }
 
 .skillbox-right {
-	border-left: 2px solid black;
+	border-left: 2px solid #3F3F3F;
 	text-align: center;
 }
 
