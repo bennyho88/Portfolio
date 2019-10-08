@@ -298,7 +298,11 @@
 /* 3. Started */
 .section.started {
 	padding: 0;
-	background: #ede574;
+	background: #000000;
+}
+
+.section.started img {
+	opacity: 0.5;
 }
 
 .section.started .slide {
