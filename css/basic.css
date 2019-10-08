@@ -430,6 +430,7 @@ a:hover {
 }
 
 /* 6. Buttons */
+
 a.btn,
 .btn {
 	padding: 2px 0 0 0;
@@ -452,6 +453,7 @@ a.btn,
 	-o-transition: all 0.4s ease 0s;
 }
 
+
 a.btn:hover,
 .btn:hover {
 	box-shadow: inset 0 -14px 0 #ede574;
@@ -459,6 +461,7 @@ a.btn:hover,
 	-webkit-box-shadow: inset 0 -14px 0 #ede574;
 	-khtml-box-shadow: inset 0 -14px 0 #ede574;
 }
+
 a.btn-overlay:hover,
  .btn-overlay:hover {
     opacity: .75;
